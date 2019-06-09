@@ -10,7 +10,7 @@ Mikutap extension for Visual Studio Code
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/kiddyu.vsc-mikutap.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kiddyu.vsc-mikutap)
 [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/kiddyu.vsc-mikutap.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kiddyu.vsc-mikutap)
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/kiddyu.vsc-mikutap.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=kiddyu.vsc-mikutap)
-[![GitHub Stars](https://img.shields.io/github/stars/kiddyu/vsc-mikutap.svg?style=flat-square)](https://github.com/kiddyuchina/vsc-mikutap)
+[![GitHub Stars](https://img.shields.io/github/stars/kiddyuchina/vsc-mikutap.svg?style=flat-square)](https://github.com/kiddyuchina/vsc-mikutap)
 
 </div>
 
