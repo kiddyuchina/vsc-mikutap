@@ -1,0 +1,41 @@
+{
+	"name": "vsc-mikutap",
+	"displayName": "VSC Mikutap",
+	"description": "Mikutap extension for Visual Studio Code",
+	"icon": "icon.png",
+	"publisher": "kiddyu",
+	"version": "0.0.1",
+	"repository": "https://github.com/kiddyuchina/vsc-mikutap.git",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:extension.mikutap"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.mikutap",
+				"title": "Mikutap"
+			}
+		]
+	},
+	"scripts": {
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^10.12.21",
+		"eslint": "^5.13.0",
+		"typescript": "^3.3.1",
+		"vscode": "^1.1.28"
+	},
+	"dependencies": {
+		"ws": "^7.0.0"
+	}
+}
